@@ -4,7 +4,7 @@
 I like boxing and math. I regularly upload my solutions of problem sets from cses, codeforces, and dmoj. :D
 
 
-### What I'm currently learning:
+### What I use:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
