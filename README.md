@@ -1,17 +1,13 @@
 
-📚 information system student at UFPI.
+📚 High School Student at Bur Oak Secondary School.
 
-Just I'm a S.I academic at UFPI, who likes anime and enthusiastic about technology, but really lazy.
+I love boxing and math. I regularly upload my solutions of problem sets from cses, codeforces, and dmoj.
 `¯\_(ツ)_/¯`
 
 ### What I'm currently learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## My activities
 
