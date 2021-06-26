@@ -1,7 +1,5 @@
 
-📚 High School Student at Bur Oak Secondary School.
 
-I like boxing and math. I regularly upload my solutions of problem sets from cses, codeforces, and dmoj. :D
 
 
 ### What I use:
