@@ -1,5 +1,8 @@
+Hi I am a grade 12 high school student from Bur Oak Secondary School.
 
-
+working on:
+- Solving competitive programming questions on dmoj, cses, codeforces
+- Making my website
 
 
 ### What I use:
