@@ -4,6 +4,8 @@ working on:
 - Solving competitive programming questions on dmoj, cses, codeforces
 - Making my website
 
+My Accomplishments:
+- Top 10 Atlas Hacks II 2021 (342 participants)
 
 ### What I use:
 
