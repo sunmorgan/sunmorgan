@@ -1,4 +1,4 @@
-Hi I am a grade 12 high school student from Bur Oak Secondary School.
+Hi I am a freshman from University of Ottawa.
 
 working on:
 - Solving competitive programming questions on dmoj, cses, codeforces
