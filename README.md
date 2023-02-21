@@ -1,4 +1,4 @@
-Hi I am a freshman from University of Ottawa.
+Hi I am a CS student from University of Ottawa.
 
 working on:
 - Personal Projects
